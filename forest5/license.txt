@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bus in forest
+* source:	https://sketchfab.com/3d-models/bus-in-forest-66ce77595cf0477ea5940cb81bc59ff8
+* author:	KattyLi (https://sketchfab.com/KattyLi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bus in forest" (https://sketchfab.com/3d-models/bus-in-forest-66ce77595cf0477ea5940cb81bc59ff8) by KattyLi (https://sketchfab.com/KattyLi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

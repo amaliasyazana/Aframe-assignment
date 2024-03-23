@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Forest
+* source:	https://sketchfab.com/3d-models/low-poly-forest-a2950be8cc8449409367d0aed2c4c5c3
+* author:	kseniayashina (https://sketchfab.com/kseniayashina)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Forest" (https://sketchfab.com/3d-models/low-poly-forest-a2950be8cc8449409367d0aed2c4c5c3) by kseniayashina (https://sketchfab.com/kseniayashina) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
