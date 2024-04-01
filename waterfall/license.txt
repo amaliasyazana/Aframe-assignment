@@ -1,0 +1,11 @@
+Model Information:
+* title:	3D Art - Project 2 - IPL UGM - by Luis Moniz
+* source:	https://sketchfab.com/3d-models/3d-art-project-2-ipl-ugm-by-luis-moniz-bb8fec243bee4e028adf92b7928f2e92
+* author:	PlatinumBladeX (https://sketchfab.com/PlatinumBladeX)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "3D Art - Project 2 - IPL UGM - by Luis Moniz" (https://sketchfab.com/3d-models/3d-art-project-2-ipl-ugm-by-luis-moniz-bb8fec243bee4e028adf92b7928f2e92) by PlatinumBladeX (https://sketchfab.com/PlatinumBladeX) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
